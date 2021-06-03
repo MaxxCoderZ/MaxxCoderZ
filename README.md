@@ -4,7 +4,7 @@
 
 ### About 🙋🏻‍♂️
 ```python
-UserName = os.environ.get("USER_NAME", "Heiman")
+UserName = os.environ.get("USER_NAME", "MāxxČođərż")
 Love = os.environ.get("CODING", "💕") # Lol Except Someone Special ( Don't Ask Who Is It )
 Age = int(os.environ.get("AGE", "15"))
 Country = os.environ.get("COUNTRY", "🇮🇳") # I Respect Every Countries Soviernity(Republic)
@@ -20,8 +20,10 @@ Relation = os.environ.get("SINGLE", "single 😇") # LMAO 🤣🤣🤣
 
 ## My Info <img src="https://github.com/HeimanPictures/HeimanPictures/blob/main/Design/Hi.gif" width="30px"></h2>
 
-<img align="right" alt="cmulay | Read Book" src="https://github.com/MaxxCoderZ/MaxxCoderZ/blob/main/20210525_213823.png"/>
 
+<p align="center">
+  <a href="https://t.me/Bruh_0x"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
+    </p>
 
 ## Maxx Coderz
 
